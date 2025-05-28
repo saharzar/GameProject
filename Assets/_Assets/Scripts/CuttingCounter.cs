@@ -54,6 +54,7 @@ public class CuttingCounter : BaseCounter
             if (player.HasKitchenObject())
             {
                 //player is carrying something
+
             }
             else
             {

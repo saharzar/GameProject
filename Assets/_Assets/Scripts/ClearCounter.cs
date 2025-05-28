@@ -1,45 +1,62 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class ClearCounter : BaseCounter 
+public class ClearCounter : BaseCounter
 {
 
 
-    //this line is to add the tomato reference to the counter
-    [SerializeField] private  KitchenObjectSO kitchenObjectSO;
-    
+    [SerializeField] private KitchenObjectSO kitchenObjectSO;
 
-    
 
-   public override void Interact(Player player)
+    public override void Interact(Player player)
     {
-        //we added these lines to put the object that the player is holding back in the counter
-        //and to take it back
         if (!HasKitchenObject())
         {
-            //there is no KitchenObject here
-           if ( player.HasKitchenObject())
+            // There is no KitchenObject here
+            if (player.HasKitchenObject())
             {
-                //player is carrying something
+                // Player is carrying something
                 player.GetKitchenObject().SetKitchenObjectParent(this);
             }
             else
             {
-                //the player not carrying anything 
+                // Player not carrying anything
             }
         }
         else
         {
-            //there is a KitchenObject here
+            // There is a KitchenObject here
             if (player.HasKitchenObject())
             {
-                //player is carrying something
+                // Player is carrying something
+                if (player.GetKitchenObject().TryGetPlate(out PlateKitchenObject plateKitchenObject))
+                {
+                    // Player is holding a Plate
+                    if (plateKitchenObject.TryAddIngredient(GetKitchenObject().GetKitchenObjectSO()))
+                    {
+                        GetKitchenObject().DestroySelf();
+                    }
+                }
+                else
+                {
+                    // Player is not carrying Plate but something else
+                    if (GetKitchenObject().TryGetPlate(out plateKitchenObject))
+                    {
+                        // Counter is holding a Plate
+                        if (plateKitchenObject.TryAddIngredient(player.GetKitchenObject().GetKitchenObjectSO()))
+                        {
+                            player.GetKitchenObject().DestroySelf();
+                        }
+                    }
+                }
             }
             else
             {
-                //player is not carrying anything
+                // Player is not carrying anything
                 GetKitchenObject().SetKitchenObjectParent(player);
             }
         }
     }
-    
+
 }

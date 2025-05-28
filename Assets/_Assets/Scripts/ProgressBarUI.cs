@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System;
 
 public class ProgressBarUI : MonoBehaviour
 {
@@ -9,11 +8,8 @@ public class ProgressBarUI : MonoBehaviour
 
     private void Start()
     {
-        if (counter is OvenCounter oven)
-        {
-            oven.OnProgressChanged += OnProgressChanged;
-        }
-        else if (counter is CuttingCounter cutting)
+        // Subscribe to appropriate progress event based on type
+        if (counter is CuttingCounter cutting)
         {
             cutting.OnProgressChanged += OnProgressChanged;
         }
@@ -26,29 +22,29 @@ public class ProgressBarUI : MonoBehaviour
         Hide();
     }
 
-    private void OnProgressChanged(object sender, EventArgs e)
+    private void OnProgressChanged(object sender, System.EventArgs e)
     {
-        float progress = 0f;
+        float progressNormalized = 0f;
 
-        if (e is OvenCounter.OnProgressChangedEventArgs ovenArgs)
+        if (e is CuttingCounter.OnProgressChangedEventArgs cuttingArgs)
         {
-            progress = ovenArgs.progressNormalized;
-        }
-        else if (e is CuttingCounter.OnProgressChangedEventArgs cutArgs)
-        {
-            progress = cutArgs.progressNormalized;
+            progressNormalized = cuttingArgs.progressNormalized;
         }
         else if (e is PizzaAssemblyCounter.OnProgressChangedEventArgs pizzaArgs)
         {
-            progress = pizzaArgs.progressNormalized;
+            progressNormalized = pizzaArgs.progressNormalized;
         }
 
-        barImage.fillAmount = progress;
+        barImage.fillAmount = progressNormalized;
 
-        if (progress <= 0f || progress >= 1f)
+        if (progressNormalized == 0f || progressNormalized == 1f)
+        {
             Hide();
+        }
         else
+        {
             Show();
+        }
     }
 
     private void Show()

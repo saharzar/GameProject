@@ -65,6 +65,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\_Assets\Scripts\ContainerCounter.cs" />
+    <Compile Include="Assets\_Assets\Scripts\DeliveryManagerSingleUI.cs" />
     <Compile Include="Assets\_Assets\Scripts\LookAtCamera.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\_Assets\Scripts\ClearCounter.cs" />
@@ -124,6 +125,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\_Assets\Scripts\ContainerCounterVisual.cs" />
     <Compile Include="Assets\_Assets\Scripts\IKitchenObjectParent.cs" />
+    <Compile Include="Assets\_Assets\Scripts\DeliverManagerUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\_Assets\Scripts\PizzaRecipeSO.cs" />
     <Compile Include="Assets\_Assets\Scripts\GameManager.cs" />
@@ -155,7 +157,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\_Assets\Animated Characters Bundle\License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />

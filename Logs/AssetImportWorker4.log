@@ -3644,3 +3644,131 @@ Memory consumption went from 184.7 MB to 179.7 MB.
 Total: 12.282000 ms (FindLiveObjects: 0.780000 ms CreateObjectMapping: 0.924000 ms MarkObjects: 6.721500 ms  DeleteObjects: 3.855000 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 984.004345 seconds.
+  path: Assets/Prefab/Kitchen Objects/Plate.prefab
+  artifactKey: Guid(6d67f0b102e6acc41bcbb627e9dcfdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Kitchen Objects/Plate.prefab using Guid(6d67f0b102e6acc41bcbb627e9dcfdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38f6687d3dc5307e4d9526bb0a26844f') in 0.7064918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 217
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.510125 seconds.
+  path: Assets/_Assets/Textures/Icons/20250519_1651_Sausage Icon Design_remix_01jvmcy4a2f0hr5rqbrc24kna8 (1).png
+  artifactKey: Guid(b23eb81dcc3585c4b970d20c1cb5353b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/20250519_1651_Sausage Icon Design_remix_01jvmcy4a2f0hr5rqbrc24kna8 (1).png using Guid(b23eb81dcc3585c4b970d20c1cb5353b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a1babbc2477133dc4b0a1617beb100d') in 0.0530563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/_Assets/Textures/Icons/assets_task_01jvmdwv4vejz9q6zjryhhaf2d_1747663674_img_1 (1) (2).jpg
+  artifactKey: Guid(daae4bde9674a344aaa18cdc7b031eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/assets_task_01jvmdwv4vejz9q6zjryhhaf2d_1747663674_img_1 (1) (2).jpg using Guid(daae4bde9674a344aaa18cdc7b031eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7618f32f7d623ee7eb22df580d05772f') in 0.4671116 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 166
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.866442 seconds.
+  path: Assets/_Assets/Textures/Icons/Bread.png
+  artifactKey: Guid(77b28124b8bda494381c80bd5aa42c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/Bread.png using Guid(77b28124b8bda494381c80bd5aa42c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0b487b466ca772c8ea6a73611f1d5cc') in 0.0111666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/_Assets/Textures/Icons/Cabbage.png
+  artifactKey: Guid(e1c23b5aded59d84da30738d3267a6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/Cabbage.png using Guid(e1c23b5aded59d84da30738d3267a6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92d46c2f8a83b949a103b36783847def') in 0.0162613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Assets/Textures/Icons/CheeseBlock.png
+  artifactKey: Guid(da2d04fe27b94e34ea0b624569b48a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/CheeseBlock.png using Guid(da2d04fe27b94e34ea0b624569b48a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de80cf433c6daa57ce2c48887662e181') in 0.0255879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882913 seconds.
+  path: Assets/_Assets/Textures/Icons/CheeseSlice.png
+  artifactKey: Guid(549cb4f2b86d1b84d8cd41c1cfde26c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/CheeseSlice.png using Guid(549cb4f2b86d1b84d8cd41c1cfde26c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d036b6e404b2b337ef591ec016d4c2f') in 0.0104644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006396 seconds.
+  path: Assets/_Assets/Textures/Cross.png
+  artifactKey: Guid(0d6e1281049dccc4189bf308b2ccf331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Cross.png using Guid(0d6e1281049dccc4189bf308b2ccf331) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd78680da73bd2bb1208737523a9802bd') in 0.0125882 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_Assets/Textures/Icons/MeatPattyCooked.png
+  artifactKey: Guid(f1f50c7ef90b19741b26f2040806cf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/MeatPattyCooked.png using Guid(f1f50c7ef90b19741b26f2040806cf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dffe6a8565219fde1a2e115519a3250d') in 0.0148821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Assets/Textures/Icons/MeatPattyUncooked.png
+  artifactKey: Guid(aa1bacc24dde76e47b2ec0dd4e82385b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/MeatPattyUncooked.png using Guid(aa1bacc24dde76e47b2ec0dd4e82385b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b2eeaf07558781271cfc095075dfc00') in 0.0129577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Assets/Textures/Warning.png
+  artifactKey: Guid(114b0da55051c094b90c77403aff838e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Warning.png using Guid(114b0da55051c094b90c77403aff838e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d6f560cca94989278998f969c523fe2') in 0.0165114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_Assets/Textures/Icons/Tomato.png
+  artifactKey: Guid(91e8fe3de9249fc44b7bdd8050062896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/Tomato.png using Guid(91e8fe3de9249fc44b7bdd8050062896) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6bfe1dc524f3df02abc0b59c2e2f2ef') in 0.0272269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Assets/Textures/Icons/TomatoSlice.png
+  artifactKey: Guid(c9f08c3c1ae2a364aaeaa3712540b1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Icons/TomatoSlice.png using Guid(c9f08c3c1ae2a364aaeaa3712540b1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db5066a66f26fb6f4e37119249d5c2b8') in 0.0139949 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Assets/Textures/Tutorial.png
+  artifactKey: Guid(641c97aa3fe3c2f4b942b1b919b8cafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Textures/Tutorial.png using Guid(641c97aa3fe3c2f4b942b1b919b8cafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1627231994980a12311b6823af0d10f7') in 0.0302726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6421 unused Assets / (5.0 MB). Loaded Objects now: 7664.
+Memory consumption went from 193.3 MB to 188.3 MB.
+Total: 14.547500 ms (FindLiveObjects: 0.798500 ms CreateObjectMapping: 0.877800 ms MarkObjects: 9.507100 ms  DeleteObjects: 3.362700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

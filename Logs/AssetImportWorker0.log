@@ -484,3 +484,232 @@ Memory consumption went from 159.6 MB to 154.6 MB.
 Total: 12.007600 ms (FindLiveObjects: 0.758600 ms CreateObjectMapping: 0.948600 ms MarkObjects: 6.521300 ms  DeleteObjects: 3.777200 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 647.791368 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/BakedsausagePizza.asset
+  artifactKey: Guid(589ea332431e534448356e6fe734acee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/BakedsausagePizza.asset using Guid(589ea332431e534448356e6fe734acee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7dc73182259ed36547de3874a96ae217') in 0.0336881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/Flat Dough.asset
+  artifactKey: Guid(881ab2d364790c548a69dd7c9844b7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/Flat Dough.asset using Guid(881ab2d364790c548a69dd7c9844b7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8f2e28fa46c048ad59dac7ddb7ab7be') in 0.0022339 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/Tomato.asset
+  artifactKey: Guid(c8b16d867b3f89949b2058e19a6b9a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/Tomato.asset using Guid(c8b16d867b3f89949b2058e19a6b9a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0af9a62b763ef9b78873b3e18c610e62') in 0.00293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/cheese slices.asset
+  artifactKey: Guid(55673983984621e46a5a48276f7c0377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/cheese slices.asset using Guid(55673983984621e46a5a48276f7c0377) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28220129f9e175c4deefaf528b60e161') in 0.0021188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/SausagePizzaUnbaked.asset
+  artifactKey: Guid(e83a6802d08c0534b90d313f2f5a7c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/SausagePizzaUnbaked.asset using Guid(e83a6802d08c0534b90d313f2f5a7c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7536175473cfa42ab9c044a59152e801') in 0.0049121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/Plate.asset
+  artifactKey: Guid(21f9546b9f2b91c48b86abe2fc44b99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/Plate.asset using Guid(21f9546b9f2b91c48b86abe2fc44b99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a691d427e64a34de1774a8df61389338') in 0.0065359 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 63
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/sausages.asset
+  artifactKey: Guid(bade305b7f0f9f8429e3a75ad37ecc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/sausages.asset using Guid(bade305b7f0f9f8429e3a75ad37ecc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c36c1cfcf4db3649288a5cc5283f036') in 0.002044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.884879 seconds.
+  path: Assets/_Assets/ScriptableObjects/FryingRecipe/UnbsausPizza-BakedsausPizzar.asset
+  artifactKey: Guid(1098e3610777a8749b3614a95035feb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/FryingRecipe/UnbsausPizza-BakedsausPizzar.asset using Guid(1098e3610777a8749b3614a95035feb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46cc506565bce1ecec4e8817cdb661d8') in 0.0141055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.989931 seconds.
+  path: Assets/_Assets/ScriptableObjects/CuttingRecipeSO/Dough-FlatDough.asset
+  artifactKey: Guid(709a3420bbf38da4ca2fafd4b5a90238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/CuttingRecipeSO/Dough-FlatDough.asset using Guid(709a3420bbf38da4ca2fafd4b5a90238) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '043320d8639203d588a217ab3c2203e6') in 0.0027276 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/_Assets/ScriptableObjects/CuttingRecipeSO/tomato-slices.asset
+  artifactKey: Guid(85950d944072dff4fbf95b0d612778a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/CuttingRecipeSO/tomato-slices.asset using Guid(85950d944072dff4fbf95b0d612778a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd88e0d3532faf28a12a26f09cb97319') in 0.003594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/_Assets/ScriptableObjects/CuttingRecipeSO/sausagesaucepizza.asset
+  artifactKey: Guid(5ada6ffd55c1fe24491fe1e20227b2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/CuttingRecipeSO/sausagesaucepizza.asset using Guid(5ada6ffd55c1fe24491fe1e20227b2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2c250fecef814bc46e178b0946528a0') in 0.0045627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 79
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.677588 seconds.
+  path: Assets/_Assets/PrefabsVisuals/PlayerVisual.prefab
+  artifactKey: Guid(1c5dda3c7cd3cf742afcade5419faeab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/PlayerVisual.prefab using Guid(1c5dda3c7cd3cf742afcade5419faeab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c9556724ed8271ec57977d4fe740af8') in 0.48936 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.357771 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/CabbageSliced_Visual.prefab
+  artifactKey: Guid(44b7e90f95929c04c8394768d8bd1d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/CabbageSliced_Visual.prefab using Guid(44b7e90f95929c04c8394768d8bd1d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c769fbf52264f3f3b9b917a3288de20b') in 0.0172143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/MeatPattyUncooked_Visual.prefab
+  artifactKey: Guid(21b2fcdae015b8c4c83ff4b68b31b06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/MeatPattyUncooked_Visual.prefab using Guid(21b2fcdae015b8c4c83ff4b68b31b06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82b02511f26843d4098b5c8b2b92c3e4') in 0.0152096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/Plate_Visual.prefab
+  artifactKey: Guid(c0c9afd619b40914a8f625c0535e2284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/Plate_Visual.prefab using Guid(c0c9afd619b40914a8f625c0535e2284) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c684de54ec632a589ed3b955d50ab761') in 0.0140566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/CheeseSlices_Visual.prefab
+  artifactKey: Guid(17cb28a1a37fd7f44ae6e1ad2aa9da78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/CheeseSlices_Visual.prefab using Guid(17cb28a1a37fd7f44ae6e1ad2aa9da78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '479d8ac92d4185e18ceed0502ca5af02') in 0.0120801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6420 unused Assets / (4.0 MB). Loaded Objects now: 7325.
+Memory consumption went from 167.4 MB to 163.4 MB.
+Total: 14.705400 ms (FindLiveObjects: 1.193200 ms CreateObjectMapping: 1.223200 ms MarkObjects: 10.122200 ms  DeleteObjects: 2.164600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.774 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.84 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.931 seconds
+Domain Reload Profiling: 1705ms
+	BeginReloadAssembly (235ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (457ms)
+		LoadAssemblies (366ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (170ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (932ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (743ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (550ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6426 unused Assets / (4.6 MB). Loaded Objects now: 7206.
+Memory consumption went from 163.7 MB to 159.1 MB.
+Total: 11.711000 ms (FindLiveObjects: 0.870200 ms CreateObjectMapping: 1.193500 ms MarkObjects: 6.633600 ms  DeleteObjects: 3.011200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 3.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6419 unused Assets / (3.4 MB). Loaded Objects now: 7206.
+Memory consumption went from 163.8 MB to 160.4 MB.
+Total: 24.309000 ms (FindLiveObjects: 3.753900 ms CreateObjectMapping: 2.728900 ms MarkObjects: 14.208900 ms  DeleteObjects: 3.614900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 318.438642 seconds.
+  path: Assets/_Assets/Scripts/PlateCompleteVisual.cs
+  artifactKey: Guid(381650635362b6f4ebf82f5e51350573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/Scripts/PlateCompleteVisual.cs using Guid(381650635362b6f4ebf82f5e51350573) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eca42e4ab63132fb0adda59f43387355') in 0.0457427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.208908 seconds.
+  path: Assets/Prefab/Kitchen Objects/BakedSausagePizza.prefab
+  artifactKey: Guid(bf0f437874c1ad746b5db92f65d78b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Kitchen Objects/BakedSausagePizza.prefab using Guid(bf0f437874c1ad746b5db92f65d78b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a39034e67d5a1390d398c3bcbee16a1f') in 0.5951754 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

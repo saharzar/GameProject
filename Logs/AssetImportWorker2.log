@@ -340,3 +340,143 @@ Memory consumption went from 159.1 MB to 154.2 MB.
 Total: 12.564600 ms (FindLiveObjects: 0.760000 ms CreateObjectMapping: 1.307200 ms MarkObjects: 6.680600 ms  DeleteObjects: 3.814700 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 642.470225 seconds.
+  path: Assets/_Assets/ScriptableObjects
+  artifactKey: Guid(870ab678bd2ea7644a6aa40be4ef6d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects using Guid(870ab678bd2ea7644a6aa40be4ef6d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81e5f31225ab51b5d641224f34135e6a') in 0.0112423 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.104601 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO
+  artifactKey: Guid(290fd8ee5fbbcba44ad82b8b1f9da36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO using Guid(290fd8ee5fbbcba44ad82b8b1f9da36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53fb2e4c345e0c17bc7f342340ddbda9') in 0.0008247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029567 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/BakedCheesePizza.asset
+  artifactKey: Guid(f71383b1ff58544478a675bd151d2c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/BakedCheesePizza.asset using Guid(f71383b1ff58544478a675bd151d2c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c400e2672e9edc73e12e297bb1766c03') in 0.0271626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/cutted mushroom.asset
+  artifactKey: Guid(7b655773919c3704bb840b994ad9f48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/cutted mushroom.asset using Guid(7b655773919c3704bb840b994ad9f48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b25d28e0524b21d569252dde40c87117') in 0.0036851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/PizzawithSauceOnly.asset
+  artifactKey: Guid(e266a6d9044338140b8caf190550dea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/PizzawithSauceOnly.asset using Guid(e266a6d9044338140b8caf190550dea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77dcd79d7a836ef0518dbed6b54084c3') in 0.0046808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/CheeseBlock.asset
+  artifactKey: Guid(68c52efa4d698ab4ab70c93746d260b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/CheeseBlock.asset using Guid(68c52efa4d698ab4ab70c93746d260b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03e486a0fcebd0a77b6ccb7c9cb234c3') in 0.0021824 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/UnbakedCheesePizza.asset
+  artifactKey: Guid(d51588e313e22b74c8ae9cdf9ae1b8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/UnbakedCheesePizza.asset using Guid(d51588e313e22b74c8ae9cdf9ae1b8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7840c60d5df08b4a1cf23525645c7c13') in 0.0050866 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 51
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/Dough.asset
+  artifactKey: Guid(882b211af802c814cb0db1fb489265b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/Dough.asset using Guid(882b211af802c814cb0db1fb489265b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1a35f74edcb2b5a08d2f51ecae2ac57') in 0.0021662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/Saus slices.asset
+  artifactKey: Guid(97e7ab3684a2bbf439a40a4ff0183a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/Saus slices.asset using Guid(97e7ab3684a2bbf439a40a4ff0183a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '618dd3e8ac0fa4e56e404477f0a4b83c') in 0.0022849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/_Assets/ScriptableObjects/KitchenObjectSO/Tomato slices.asset
+  artifactKey: Guid(f63b2db945fb2554fa26f7abaaadeadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/KitchenObjectSO/Tomato slices.asset using Guid(f63b2db945fb2554fa26f7abaaadeadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fd9b339f5a3c0feed40b30441608344') in 0.0021715 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.865417 seconds.
+  path: Assets/_Assets/ScriptableObjects/FryingRecipe/UnbcheesePizza-BakedCheesePizzar.asset
+  artifactKey: Guid(b20e963ca14b8ec45863cdf6e3a236b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/FryingRecipe/UnbcheesePizza-BakedCheesePizzar.asset using Guid(b20e963ca14b8ec45863cdf6e3a236b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf011387011c80a9c1ee2e95e389821c') in 0.0165285 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.987393 seconds.
+  path: Assets/_Assets/ScriptableObjects/CuttingRecipeSO/cheesesaucepizza.asset
+  artifactKey: Guid(e014b36892c79fc4abd97ad38b48248d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/CuttingRecipeSO/cheesesaucepizza.asset using Guid(e014b36892c79fc4abd97ad38b48248d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4e3617b8847d15137e4de632ba78898') in 0.0067538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 81
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Assets/ScriptableObjects/CuttingRecipeSO/test waldik.asset
+  artifactKey: Guid(099af40a287a65049a225dd3dcf89122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/ScriptableObjects/CuttingRecipeSO/test waldik.asset using Guid(099af40a287a65049a225dd3dcf89122) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '730238c1db50018c2e47fe8da65167a0') in 0.0036906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.701492 seconds.
+  path: Assets/_Assets/PrefabsVisuals/PlayerMovingParticles.prefab
+  artifactKey: Guid(12d9bf5aa92c13841abb9eec36b81afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/PlayerMovingParticles.prefab using Guid(12d9bf5aa92c13841abb9eec36b81afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d28bb4569975a76c7edc34e1ecc9efb') in 0.4837897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.362633 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/Cabbage_Visual.prefab
+  artifactKey: Guid(259702638197d9246bfc6f2b0fe88c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/Cabbage_Visual.prefab using Guid(259702638197d9246bfc6f2b0fe88c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3aafca781bb172ed3e106ee44bbc049c') in 0.0205743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/Tomato_Visual.prefab
+  artifactKey: Guid(81e9fe7b3cd084242a088e945f531f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/Tomato_Visual.prefab using Guid(81e9fe7b3cd084242a088e945f531f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '670381148146564934ca3506c6fafdc9') in 0.0141622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/MeatPattyBurned_Visual.prefab
+  artifactKey: Guid(0df961a7e3870b44f9bbce7bdf930613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Assets/PrefabsVisuals/KitchenObjectsVisuals/MeatPattyBurned_Visual.prefab using Guid(0df961a7e3870b44f9bbce7bdf930613) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7863465f8859a7093ab6a3ce0546d098') in 0.0143035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
